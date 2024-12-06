@@ -1,0 +1,26 @@
+Here is a list of all common **operations** or **processes** that can be performed on a **stack**:
+
+1. **Push**
+2. **Pop**
+3. **Peek** (Top)
+4. **Is Empty**
+5. **Size**
+6. **Is Full**
+7. **Reverse**
+8. **Sort**
+9. **Balanced Parentheses Check**
+10. **Evaluate Postfix Expression**
+11. **Evaluate Prefix Expression**
+12. **Undo/Redo Mechanism**
+13. **Copy Stack**
+14. **Clear Stack**
+15. **Find Minimum Element**
+16. **Find Maximum Element**
+17. **Remove All Elements Greater Than a Value**
+18. **Remove Duplicates**
+19. **Insert At Bottom**
+20. **Kth Largest Element**
+21. **Merge Two Stacks**
+22. **Rotate Stack**
+
+These are the typical processes you can perform on a stack, depending on the context or problem you're solving.

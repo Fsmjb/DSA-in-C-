@@ -1,0 +1,51 @@
+Here are the primary processes or operations commonly associated with **Data Structures and Algorithms (DSA)** using arrays in C++:
+
+### 1. **Basic Operations on Arrays**
+   - **Traversal**: Visiting all elements of the array.
+   - **Insertion**: Adding an element at a specific position.
+   - **Deletion**: Removing an element from a specific position.
+   - **Searching**: Finding the index of a specific element.
+     - Linear Search
+     - Binary Search (for sorted arrays)
+   - **Updating**: Changing the value of an element at a specific index.
+
+### 2. **Advanced Operations**
+   - **Sorting**: Arranging the elements in a specific order (ascending/descending).
+     - Bubble Sort
+     - Selection Sort
+     - Insertion Sort
+     - Merge Sort
+     - Quick Sort
+     - Heap Sort
+   - **Merging**: Combining two arrays into one.
+   - **Splitting**: Dividing an array into multiple parts.
+
+### 3. **Mathematical and Logical Operations**
+   - **Reversing**: Flipping the order of elements in the array.
+   - **Finding Maximum/Minimum**: Locating the largest or smallest element.
+   - **Rotation**: Rotating the array to the left or right.
+   - **Shifting**: Moving all elements left or right by one or more positions.
+   - **Finding Duplicates**: Identifying repeated elements.
+   - **Finding Pairs**: Identifying pairs of elements that meet specific conditions (e.g., sum equals a target).
+   - **Subarrays**:
+     - Maximum Sum Subarray (Kadane's Algorithm)
+     - Longest Increasing Subarray
+   - **Prefix Sum**: Precomputing cumulative sums for efficient range queries.
+
+### 4. **Searching for Patterns**
+   - Finding a subarray with a specific sum.
+   - Checking for a given sequence or pattern in the array.
+   - Frequency count of elements.
+
+### 5. **Matrix Representation and Operations**
+   - Treating 2D arrays as matrices.
+   - Matrix addition, subtraction, multiplication, and transposition.
+
+### 6. **Specialized Operations**
+   - **Sparse Arrays**: Handling arrays with mostly zero elements.
+   - **Dynamic Arrays**: Arrays that can grow or shrink in size (using `vector` in C++).
+   - **Sliding Window Technique**: Efficiently solving problems that involve subarray sums or other patterns.
+   - **Two-pointer Technique**: Solving problems related to searching, sums, or partitions.
+   - **Hashing with Arrays**: Using arrays to implement hash tables for efficient lookups.
+
+These operations are foundational in DSA and are widely applied in competitive programming and real-world applications. Let me know if you need detailed code for any of these!
